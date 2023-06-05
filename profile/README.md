@@ -6,6 +6,8 @@ We embody the boundless potential of open collaboration and strive to create an 
 
 If you're looking how to volenteer your GPU check out the [AI-Horde-Worker project](https://github.com/Haidra-Org/AI-Horde-Worker).
 
+If you're looking to contribute code, feel free to open a pull request on any of our projects. We do appreciate a collaborative spirit, so feel free to run by any ideas or plans you may have with the community on [our discord server](https://discord.gg/3DxrhksKzn), or open an issue on the relevant project to start a discussion.
+
 
 <!--
 
