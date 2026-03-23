@@ -1,8 +1,6 @@
 # Haidra 
 
-We are the volunteer community organization behind the revolutionary [AI Horde](https://github.com/Haidra-Org/AI-Horde) project and the thriving ecosystem that surrounds it.
-
-We embody the boundless potential of open collaboration and strive to create an inclusive and innovative space for all. Join us as we explore the infinite possibilities of the open commons and shape the future of AI together.
+Haidra is the organization behind the AI Horde, a free, community-powered service that provides open access to generative AI. We are a volunteer-run, non-profit effort dedicated to ensuring that powerful machine learning technologies remain available to all people, regardless of their financial means, geographic location, or technical resources. We believe that when people freely share what they have, everyone gains more than any one person gives up.
 
 If you're looking for how to volunteer your GPU check out the [AI-Horde-Worker project](https://github.com/Haidra-Org/horde-worker-reGen).
 
